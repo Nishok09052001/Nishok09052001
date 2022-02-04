@@ -9,7 +9,7 @@
 
 <br>
 
-<p><img align="right" src="https://media.giphy.com/media/axnFGXT6MzvgY/giphy.gif" alt="Nishok09052001" height="350" width="500"/></p>
+<p><img align="right" src="https://media.giphy.com/media/axnFGXT6MzvgY/giphy.gif" alt="Nishok09052001" height="300" width="450"/></p>
 
 
 - 👀 I’m interested in Data Analytics and Machine Learning
